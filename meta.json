@@ -1,0 +1,29 @@
+{
+  "repo": "sap2000-ultimate-structural-analysis",
+  "product": "SAP2000 Ultimate Structural Analysis",
+  "kind": "cad",
+  "install_type": "nexpath",
+  "install_url": "https://sap2000.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "cad",
+  "topics": [
+    "sap2000",
+    "structural-analysis",
+    "finite-element",
+    "bridge-design",
+    "building-analysis",
+    "civil-engineering",
+    "structural-engineering",
+    "fea-software",
+    "sap2000-setup-failed-fix",
+    "how-to-install-sap2000",
+    "sap2000-windows",
+    "engineering-tools",
+    "windows-tools",
+    "cad-utility"
+  ],
+  "stars_cache": 14,
+  "nexpath_slug": "sap2000",
+  "nexpath_app_name": "SAP2000"
+}
